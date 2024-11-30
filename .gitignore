@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 serial_network_model_combined.keras
+Data_Set/*
+radar_data/*
